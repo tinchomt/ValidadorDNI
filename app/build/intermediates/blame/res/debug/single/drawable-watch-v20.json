@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/martin/.android/build-cache/9076c659711ecd5d84f7c3a0f07811be45fe324f/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/martin/.android/build-cache/9076c659711ecd5d84f7c3a0f07811be45fe324f/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/martin/.android/build-cache/9076c659711ecd5d84f7c3a0f07811be45fe324f/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

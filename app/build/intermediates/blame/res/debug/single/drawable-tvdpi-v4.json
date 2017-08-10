@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/martin/.android/build-cache/36ae953420991a7cfedee024067352a92a66752e/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/martin/.android/build-cache/36ae953420991a7cfedee024067352a92a66752e/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/martin/.android/build-cache/36ae953420991a7cfedee024067352a92a66752e/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/martin/.android/build-cache/36ae953420991a7cfedee024067352a92a66752e/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    }
+]

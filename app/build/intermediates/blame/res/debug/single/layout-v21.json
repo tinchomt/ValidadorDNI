@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/martin/.android/build-cache/71da3d9e2f3ca61a85e0f5c8779fc749678f4c86/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

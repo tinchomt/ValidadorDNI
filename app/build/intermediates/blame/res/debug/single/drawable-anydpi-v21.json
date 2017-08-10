@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/martin/.android/build-cache/d0a084e6d6afad5e5263011bb5d5f82fe5977da5/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/martin/.android/build-cache/d0a084e6d6afad5e5263011bb5d5f82fe5977da5/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

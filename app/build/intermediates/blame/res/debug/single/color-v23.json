@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/martin/.android/build-cache/d0a084e6d6afad5e5263011bb5d5f82fe5977da5/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

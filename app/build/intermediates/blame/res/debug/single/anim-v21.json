@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/martin/.android/build-cache/d0a084e6d6afad5e5263011bb5d5f82fe5977da5/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/martin/.android/build-cache/d0a084e6d6afad5e5263011bb5d5f82fe5977da5/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

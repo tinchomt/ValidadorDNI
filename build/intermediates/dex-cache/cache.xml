@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/deb649c663350659c81b876f89d549d5a08ca6a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2e57534ba4071109d01ff8fbd3132839b33886b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/be35d87f9d97dd5d4085c87e652a592663726867/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64ce0e1499e15c4b7789451376913cc560f7038c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/d1a7ef973f4f90743f4071e79996dcc7b3f00ee6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b76fe4ae37b3c519a7e980227654aad3c9098cbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/53b2371dedbd70235f62892cf399996018acff80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff9aa3f64d6c4deef5089b7093505a002b770ea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/78fe1e18b37615d1017f48ab7b03f3c1b08344c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e69a90d691f1e71470b7afd46982ff62200f9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/e5e1a8f249d04a6b5be1a4979453a7bc410fcff8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f07b5ef9595b592d5516944f54a2df927647f6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/71da3d9e2f3ca61a85e0f5c8779fc749678f4c86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b205c47fe104915d1e8210d6903078b26c07315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/d0a084e6d6afad5e5263011bb5d5f82fe5977da5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_406c6b7e01a3a05434453dc9fe757d20c3ecb761/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/3162e2d9501a192a220ba465eccab9155fdc63a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_389c45f9199d8d5e76a9fbbc705ea4adca8ca328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/b1126af3517a8defc8fac35379a236777cd4b087/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9145b5fef82ece007d1d67b7358f54aefb890eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_2e047c52125b789f0b740ef983dec77e891e0dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/e1e12bde2caf217d36fdbe5f36a7f3ab5299fe88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9992954e40892dee2456ddb671920e812c0e9c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/97819da0cc3f154d8f60f917fa494482cbc188d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_589faa032e2c92d8434d4fd298fd10b4a220a2b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/7569c1d447aefcaf11019932a9703ba1c028da36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb895db6e16e4272da9daf3563928739cab463a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/53412b702c2175a0134b724028f98fc1bf9effcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58672a4ca3fac8dced376a30b7123e7e025f4e6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/1813c86beef97fe673eba6c6e3d42a3fc1f4af26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_252a115633b2840324ea9824638e22d6bbf323ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/9bd0a6bbf04cef800fb26f96fe55d6098f18a18d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_647cd6ea10dad0f53b1fe20b039d6856fd978068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/ab8e9d8c462c076d5a88951f38307ff27228bf62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7a730386034fffc9140871b44682f56ed9aaac3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/866a024717e52414aeabb9e9422c7e1564f273a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_271363e450ed76065ded5b3acb3ec8f87b83c858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/60d7a95d7b5f266e4bab9cab82cfc996c7e502fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_474306ce99f256cd8a3fec78978b5d8a0c8987a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/668050cc6cbfbc0b898bb99235ecfccf1de570f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92be79d06d11385f53de2de0bd2fa5297ae48502/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/1a47455f0267b94f09be2fdda658b8365677410b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff274606f67e8535e591948a1cf384a4a970363f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/7b9078b0cd8a54822c24e86aa5b7f3ca25af3606/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5193b83198ddfcc237de4c7ca2e8e02ff7bc881a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/a0ce7a477e80b022b8ea1b7ebc4131dc6e501bc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae15d068fd772076a2ed963783a7054a9fa1ebeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/347b0c6d3aedbc3c5716a87c7f3cd94e09f1470c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec55cd16cdffcdb90cc5302d6881e4d43740a6e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5ed41b1f59226292ec53a7866f1820ae01f4ec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/36ae953420991a7cfedee024067352a92a66752e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8df7d29d3c793b8d718136ddb69cccde6070b9b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/bb617eaf4fa20fe380d31e5b1eb95435e16b2123/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b51a9334e312e79450c661ab377f6b49e3849e5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/74d75af941c4fcbd733953cad8c907bc64c0709e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c928d0f6b56ad1613074ee633d5eb13ef73490e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/9076c659711ecd5d84f7c3a0f07811be45fe324f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_718f85d65af08baa7ab93a53597fa22c56b5e136/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/9d945723d5dd6c3318d0ef5cdfeb7f841109f147/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b3713e09664e6ccc4b131fbbc2d993354629604/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/36596ab4ada8cdcce5493ba0b989344812db88e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9592c412298e6239fa8a78216c3665b1d2c62049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/5e0fc6045991202a10e44f00b7d8c2d9143f08b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09e7100afe6cefbfc3bf65c9e1f9e133cf3458cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/c522bacbcd55ed56cf31fa56b517c3c0b05853ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a964fe8fd36f83337a1079a0d8e06676ce78480d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0ddc8211a35885569e9eae8f539605d8afaa1a69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/7f48ef62c1c75bf2d742c2d01c0b9513b6cb4be2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cf57147f6697a14c801d87e84ef8bac6d3208c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/66e0060525097e4b3ffc939bef5607ae3caa18d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_708f02b82dd5cfcb852a604554d9eb4528532344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/ed25dfc0553a752cb7b0e56d9af2a1232fdbb949/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_262e5d94e8f64ff08f752dbc098cd3bc4dc5b026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/fe8e1981a0e8b9f89d2ace5d7489365a56c98d4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4264622077510207423777501da297575604e940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/ddf12ed7e837d58f8692d9d5eced90e838a3cd6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67237e55cd73d8a6e607a3f41048b551556e04e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/2b277b32259af164dd8f484777fab02709b517a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d546a8ab0b8edda376008598f965ab45209bf7dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/6590158ec6e48e75111d344a271cb9b491418b54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b72677f8ff51f7575e6bda6c272b202290310003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/99612ae2aee3477cd4fffd2b9ee11a653a426321/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fa7580b59e9977fd9597f9f77519b50180894f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/4cf31504042080fcef02e84912b8b43a7805a27a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7bf783b63a2a70cd8c1da047d830d2a0911a055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/38af5915916fc1a33f2e8c9975f346949ff16f43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8b06345431172bba026ff42a9d5ce694fe2c7c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/50bbe9654d5f21790cfe3573064cfbd058d0a295/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1c73684bad27440b0000e456d6752f1efd36c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/6af71b9da93c1433a9af9f0526c9101bc9b712a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d6731d4a57f652d6b75ae45e19bb6a6121d38f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/51c8cbf1df744d35fd71e48fd949ff9d030de202/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4345a2382e710507cec827c6ff82160d0a3f255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/b01a011f865dd9d576ccb9270ac58a2aef8db615/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6965f2bae72f66698a16fe3ae30d8cc9fb4295e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3f008163d68b00bf971f6684e821f67de26d435">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72842ad8aeca47dc618ef7097aedf04e1aae8c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/e9dc19f954110f4a7e961a563cd83276addda2ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d030e2c909da6b469c08ecd9aba3eeb0b64653f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/d22a0585d7dbff9feed6804e0c9a6752c129c333/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7c9b33085ac13caa69a4ca5808f8953a6b907ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/dd3bd1c021daa2e614dcb6e6b23ce812cb9a2a50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3d01a93d041fa0764c293ec72ba3cbeedd1a051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/ee6c20815bc400c9898beba578ac6e7a875fbd2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ef8cd8887c0448c9341e35d4c25ce3cf84d19bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/d571f0bfb2bfcb95d3c3c5dcb7a9bd0b4662ddf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80b61ac28e1c39edff4f0feea942f8e2b692c05d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/1ed0af2cf27453e52984880617bbc2ddaf65d50e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3406d1893d3cf936442d144cb9590820ff9fdd67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/4b3fe31480db997c22bae58b13d806605b016290/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45cb2d23db3053827435923bc62ab1e556fd06ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/c54e7f2cd7a928f22e0fa755f3119de396933450/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5099d5fa9a9772da5beedd5589510283d2cd790c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/e3bf4bc42434a4c6b9c43d275a5c453874f6dd2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f64f2e49f197f7682571f9820fd367942006bc6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/809c006f870933b6384fa9f21ad411447b838b9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db0307efdf5c22bb8395c69a2578c28bab322171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/154bb428db55c52159a72e957b29a72b8fe0a819/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76317d20d696dca0ef0bab9b47c4eda87c4e038b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/0925fa1ec8d7f684fe5b00cf1276c381a677cf43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1d62802ed5e9bafef2cfdffe9eaaa7bf08884bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/cd30b3691fcbc1d719bd03ae1c11849307751ec2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f999e134eb91c3ab4432a4ca103f99cd758d9a12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/67f1b521e6873d288e631fe2ca77689f02fc0c91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6f1a43e93a6f6600caf24d465bb8635925f14e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/c0417a2910016163ee05af2e1a77af4034ce2e6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_851916d1601e64bb114ace4c4c041beecef44811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/b4a6bfe4abc5449b3b5cfb39a08424fb8dfaaa63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0098dc049d8ba6196026a69f60a84533db92dbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/8fba6c899523a44746dde036b41bac7bcc3b4517/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de605337473c2276e270419b41743bdce127e100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/5da3f1fcee57e227ad5afa2c729ba91bf13f2bae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7c3415939211faf53acef4eadd8321dae625fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/8f9552d582bc1fe0c9e98383404bf4478320eb68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf64ed73f8af8869dcc2a6803fc3f3a75f33cfd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/d1dbaba049036425605ae4a573370495d9a5f9c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/martin/Descargas/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56d1feff59f54e11b47b4d462afa645912645a88/classes.dex" />
+    </item>
+
+</items>
